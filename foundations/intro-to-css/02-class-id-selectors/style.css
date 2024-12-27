@@ -1,0 +1,19 @@
+.a-class {
+  background-color: pink;
+}
+
+.cooler {
+  font-size: larger;
+  font-weight: 400;
+}
+
+#num-2 {
+  color: blue;
+  font-size: 35pt;
+}
+
+#num-4 {
+  background-color: lightgreen;
+  font-size: 15pt;
+  font-weight: bold;
+}
